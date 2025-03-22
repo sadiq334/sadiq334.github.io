@@ -10,6 +10,7 @@
 body {
     background: url('https://i.pinimg.com/736x/8d/a7/d4/8da7d4f6b60163fecb7177f3180073b5.jpg') no-repeat center center fixed;
     background-size: cover;
+    background-color: #000; /* لون أسود كاحتياطي */
 }
 
 /* Nav Bar */
