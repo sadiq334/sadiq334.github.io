@@ -8,9 +8,9 @@
 }
 
 body {
-    background: url('https://wallpapercave.com/wp/wp4423137.gif') no-repeat center center fixed;
+    background: url('https://media.giphy.com/media/3o6ZsYJWJxd8EEQCGk/giphy.gif') no-repeat center center fixed;
     background-size: cover;
-    background-color: #000; /* لون أسود كاحتياطي */
+    background-color: #000; 
 }
 
 /* Nav Bar */
