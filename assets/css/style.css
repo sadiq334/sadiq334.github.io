@@ -8,11 +8,10 @@
 }
 
 body {
-    background: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnI3ZXNlZmM3bzFrcW5sMGk4aWtwcXE3ajI1ZmE5bHdrNGtrd3I0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxfaMspYI0U8U68U/giphy.gif') no-repeat center center fixed;
+    background: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21vam50ZmVycDVodGo2OHdyejN5eDF6bWpicW9uM3pvM2hqNXFyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1nQ7mQTQySOhmNThx1/giphy.gif') no-repeat center center fixed;
     background-size: cover;
-    background-color: #000; /* لون احتياطي */
-}
-/* Nav Bar */
+    background-color: #000; /* لون أسود احتياطي */
+}/* Nav Bar */
 
 header nav {
     display: flex;
